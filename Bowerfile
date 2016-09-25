@@ -1,0 +1,7 @@
+asset 'bootstrap-sass-official'
+asset 'jquery', '2.2.4'
+asset 'video.js'
+asset 'image-picker'
+asset 'swiper'
+asset 'angularjs'
+asset 'angular-route'
